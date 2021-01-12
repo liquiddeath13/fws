@@ -6,7 +6,7 @@ In <a href="https://github.com/liquiddeath13/fcs/">another repository</a> locate
 
 # features
 - using tcp conn
-- many action types:
+- many action types for file getting by client:
   - getting file from new origin by any run key will lead to dir creation with name like an remote IP and saving file in that folder
   - getting file from existed origin by run key "new" with existed name will lead to name changing like <{name} (N).{ext}>, where N is order num of files with the same name
   - getting file from existed origin by run key "append" will lead to addition of specified file
